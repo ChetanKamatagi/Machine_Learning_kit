@@ -28,3 +28,11 @@ The Machine Learning Kit for Python Beginners is a collection of machine learnin
 
 * Voice Classification<br/>
 --> Voice Classification: Perform audio classification tasks using machine learning.
+
+
+![Main UI](https://github.com/ChetanKamatagi/Machine_Learning_kit/blob/main/Main%20UI.png)<br/>
+![Object Detection](https://github.com/ChetanKamatagi/Machine_Learning_kit/blob/main/ObjectDetection_%20window.png)<br/>
+![Image Classification](https://github.com/ChetanKamatagi/Machine_Learning_kit/blob/main/ImageClassification_Window.png?raw=true)<br/>
+![Image segmentation](https://github.com/ChetanKamatagi/Machine_Learning_kit/blob/main/ImageSegmentation_Window.png?raw=true)<br/>
+![OCR](https://github.com/ChetanKamatagi/Machine_Learning_kit/blob/main/OCR_window.png)
+
